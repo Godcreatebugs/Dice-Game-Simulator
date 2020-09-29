@@ -21,11 +21,11 @@ attributeSelector2.setAttribute("src",imgPath2);
 //change title with the winning candidate 
 var header = document.querySelector("h1");
 if(randomNumber1>randomNumber2){
-    header.textContent="Player 1 wins!";
+    header.textContent="🤘Player 1 wins!";
 }
 else if(randomNumber1<randomNumber2) {
-    header.textContent="player 2 wins!";
+    header.textContent="player 2 wins🤘!";
 }
 else{
-    header.textContent="Ohh! It's a tie! Refresh once more.";
+    header.textContent="😮Ohh! It's a tie! Refresh once more.";
 }
