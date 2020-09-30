@@ -8,4 +8,6 @@ Dice game using random number generator using HTML, CSS and JavaScript.
 
 </div>
 
+This is <a href="https://godcreatebugs.github.io/Dice-Game-Simulator/"> link </a> to live website.
+
 
